@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Email
+comment1.params=Customer1
+comment1.target=Email(Customer)
+comment2.params=
+comment2.target=void\ sendEmail()
+numComments=3

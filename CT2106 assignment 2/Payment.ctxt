@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Payment
+comment1.params=customer1\ address1\ creditCardType\ creditCardNo\ price
+comment1.target=Payment(Customer,\ Address,\ java.lang.String,\ long,\ double)
+comment2.params=
+comment2.target=boolean\ validInfo()
+numComments=3

@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Car
+comment0.text=\r\n\ @Patrick\ Noonan\r\n\ @2.2\r\n
+comment1.params=name
+comment1.target=Car(java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Car\r\n
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment3.params=name
+comment3.target=void\ setName(java.lang.String)
+comment4.params=
+comment4.target=double\ getDistance()
+comment5.params=
+comment5.target=double\ getTotalDist()
+comment6.params=engine
+comment6.target=void\ add(Engine)
+comment7.params=wheel
+comment7.target=void\ add(Wheel)
+comment8.params=
+comment8.target=double\ drive()
+comment9.params=
+comment9.target=void\ printState()
+numComments=10

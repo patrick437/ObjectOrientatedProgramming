@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Wheel
+comment0.text=\r\n\ Patrick\ Noonan\r\n\ 2.2\r\n
+comment1.params=name\ radius
+comment1.target=Wheel(java.lang.String,\ double)
+comment2.params=
+comment2.target=double\ getRadius()
+comment3.params=radius
+comment3.target=void\ setRadius(double)
+comment4.params=
+comment4.target=java.lang.String\ getName()
+comment5.params=name
+comment5.target=void\ setName(java.lang.String)
+comment6.params=
+comment6.target=double\ getCircumference()
+numComments=7

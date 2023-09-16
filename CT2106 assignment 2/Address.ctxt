@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Address
+comment1.params=l1\ l2\ l3\ country\ eircode
+comment1.target=Address(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getAddress()
+numComments=3

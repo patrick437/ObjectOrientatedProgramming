@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=BusCompany
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ BusCompany\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=BusCompany()
+comment2.params=i
+comment2.target=java.lang.String\ listOfTrips(int)
+comment3.params=
+comment3.target=java.lang.String\ printAllTrips()
+comment4.params=index
+comment4.target=Routes\ getRoute(int)
+comment5.params=tripID
+comment5.target=Routes\ selectRoute(int)
+comment6.params=route
+comment6.target=void\ addRoute(Routes)
+numComments=7
